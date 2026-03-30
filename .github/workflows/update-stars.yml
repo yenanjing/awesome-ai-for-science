@@ -1,4 +1,4 @@
-name: Update Star Counts
+name: Discover & Update Repos
 
 on:
   schedule:
@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Refresh star counts & regenerate README
+      - name: Discover new repos & refresh star counts
         run: python scripts/update_stars.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -34,5 +34,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md data/repos.json
           git diff --cached --quiet \
-            || git commit -m "🔄 Auto-update star counts [$(date -u +%Y-%m-%d)]"
+            || git commit -m "🔄 Auto-discover & update repos [$(date -u +%Y-%m-%d)]"
           git push

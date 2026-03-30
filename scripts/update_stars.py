@@ -38,6 +38,53 @@ if token := os.getenv("GITHUB_TOKEN"):
     HEADERS["Authorization"] = f"Bearer {token}"
 
 SLEEP_BETWEEN = 0.5   # seconds between requests (well within rate limits)
+SEARCH_SLEEP  = 7     # seconds between GitHub Search API calls (≤30 req/min with token)
+MIN_STARS     = 10    # minimum stars required to keep / add a repo
+
+# ── Search queries: category → list[query_string] ────────────────────────────
+# All queries include stars:>10 so the API pre-filters results.
+SEARCH_QUERIES: dict[str, list[str]] = {
+    "\U0001f9d1\u200d\U0001f52c AI Scientist Frameworks": [
+        "topic:ai-scientist stars:>10",
+        '"ai scientist" autonomous experiment paper stars:>10',
+    ],
+    "\U0001f501 Autoresearch & Self-Improving Loops": [
+        "topic:autoresearch stars:>10",
+        '"research loop" autonomous llm stars:>10',
+    ],
+    "\U0001f310 Deep Research Agents": [
+        "topic:deep-research stars:>10",
+        '"deep research" agent llm stars:>10',
+    ],
+    "\U0001f4a1 Hypothesis Generation & Idea Mining": [
+        '"hypothesis generation" ai research stars:>10',
+        '"idea generation" research llm stars:>10',
+    ],
+    "\U0001f4dd Paper Writing & Academic Automation": [
+        '"paper writing" autonomous ai stars:>10',
+        '"academic writing" llm automation stars:>10',
+    ],
+    "\U0001f4da Literature Review & Paper Search": [
+        '"literature review" autonomous ai stars:>10',
+        '"paper search" semantic llm stars:>10',
+    ],
+    "\U0001f9ec AI for Drug Discovery & Biology": [
+        "topic:drug-discovery ai agent stars:>10",
+        '"drug discovery" llm agent stars:>10',
+    ],
+    "\u2697\ufe0f AI for Materials & Physical Sciences": [
+        '"materials discovery" ai agent stars:>10',
+        '"materials science" llm autonomous stars:>10',
+    ],
+    "\U0001f52c Research Tools & Infrastructure": [
+        '"research infrastructure" ai agent stars:>10',
+        '"experiment automation" ai framework stars:>10',
+    ],
+    "\U0001f4d6 Curated Lists & Resources": [
+        '"awesome ai for science" stars:>10',
+        '"awesome ai scientist" stars:>10',
+    ],
+}
 
 # ── Category config ──────────────────────────────────────────────────────────
 CATEGORY_ORDER = [
@@ -88,6 +135,68 @@ TOC_ANCHORS = {
     "\U0001f52c Research Tools & Infrastructure":            "research-tools-infrastructure",
     "\U0001f4d6 Curated Lists & Resources":                  "curated-lists-resources",
 }
+
+
+# ── GitHub Search helpers ─────────────────────────────────────────────────────
+def search_github(query: str) -> list[dict]:
+    """Search GitHub repositories matching *query*. Returns raw API items."""
+    url = "https://api.github.com/search/repositories"
+    params = {"q": query, "sort": "updated", "order": "desc", "per_page": 100}
+    try:
+        resp = requests.get(url, headers=HEADERS, params=params, timeout=20)
+        if resp.status_code == 200:
+            return resp.json().get("items", [])
+        if resp.status_code == 403:
+            reset = int(resp.headers.get("X-RateLimit-Reset", time.time() + 60))
+            wait  = max(reset - int(time.time()), 0) + 5
+            print(f"  [403] Search rate-limited. Waiting {wait}s …")
+            time.sleep(wait)
+            resp2 = requests.get(url, headers=HEADERS, params=params, timeout=20)
+            if resp2.status_code == 200:
+                return resp2.json().get("items", [])
+        print(f"  [Search {resp.status_code}] {query!r}")
+    except requests.RequestException as exc:
+        print(f"  [Search ERR] {query!r}: {exc}")
+    return []
+
+
+def normalize_repo(gh_item: dict, category: str) -> dict:
+    """Convert a GitHub Search API result item to the internal schema."""
+    return {
+        "name":        gh_item["full_name"],
+        "url":         gh_item["html_url"],
+        "description": gh_item.get("description") or "",
+        "stars":       gh_item["stargazers_count"],
+        "forks":       gh_item.get("forks_count", 0),
+        "language":    gh_item.get("language") or "",
+        "topics":      ",".join(gh_item.get("topics") or []),
+        "updated":     gh_item.get("updated_at", ""),
+        "category":    category,
+    }
+
+
+def discover_repos(existing_urls: set[str]) -> list[dict]:
+    """
+    Run all SEARCH_QUERIES; return newly-discovered repos not already in
+    *existing_urls* and with stars > MIN_STARS.
+    *existing_urls* is mutated in-place to deduplicate across queries.
+    """
+    new_repos: list[dict] = []
+    for category, queries in SEARCH_QUERIES.items():
+        for query in queries:
+            print(f"  Searching: {query!r}")
+            items = search_github(query)
+            for item in items:
+                html_url = item.get("html_url", "")
+                if html_url in existing_urls:
+                    continue
+                if item.get("stargazers_count", 0) <= MIN_STARS:
+                    continue
+                new_repos.append(normalize_repo(item, category))
+                existing_urls.add(html_url)
+            time.sleep(SEARCH_SLEEP)
+    print(f"Discovered {len(new_repos)} new repos")
+    return new_repos
 
 
 # ── Star fetching ─────────────────────────────────────────────────────────────
@@ -293,6 +402,19 @@ def main() -> None:
 
     print(f"\nDone: {updated} updated, {skipped} unchanged, {errors} errors")
 
+    # Drop repos with stars <= MIN_STARS
+    before = len(repos)
+    repos = [r for r in repos if r.get("stars", 0) > MIN_STARS]
+    dropped = before - len(repos)
+    print(f"Dropped {dropped} repos with ≤{MIN_STARS} stars  ({len(repos)} remain)")
+
+    # Discover new repos via GitHub Search
+    print("\n--- Discovering new repos ---")
+    existing_urls: set[str] = {r["url"] for r in repos}
+    new_repos = discover_repos(existing_urls)
+    repos.extend(new_repos)
+    print(f"Total repos after discovery: {len(repos)}")
+
     # Persist updated data
     with DATA_FILE.open("w") as f:
         json.dump(repos, f, indent=2, ensure_ascii=False)
@@ -302,7 +424,7 @@ def main() -> None:
     repos_by_cat: dict[str, list[dict]] = {cat: [] for cat in CATEGORY_ORDER}
     for repo in repos:
         cat = repo.get("category", "")
-        if cat in repos_by_cat and repo["stars"] > 0:
+        if cat in repos_by_cat and repo["stars"] > MIN_STARS:
             repos_by_cat[cat].append(repo)
 
     # Sort each category by stars desc
