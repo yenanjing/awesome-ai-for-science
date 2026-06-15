@@ -4,9 +4,9 @@
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   ![GitHub stars](https://img.shields.io/github/stars/yenanjing/awesome-ai-for-science?style=flat-square)
-  ![Last Updated](https://img.shields.io/badge/last%20updated-2026-06-14-blue?style=flat-square)
+  ![Last Updated](https://img.shields.io/badge/last%20updated-2026-06-15-blue?style=flat-square)
 
-  <p>Collected <strong>356</strong> repositories across <strong>10</strong> categories covering the full spectrum of AI-driven research automation.</p>
+  <p>Collected <strong>357</strong> repositories across <strong>10</strong> categories covering the full spectrum of AI-driven research automation.</p>
 </div>
 
 ---
@@ -43,7 +43,7 @@ This list focuses specifically on **AI systems that automate the scientific rese
 - 🧬 **Domain-specific AI** accelerating drug discovery, materials science, and more
 
 > **Note**: This list focuses on AI *automating* research — not general AI tools, ML frameworks, or unrelated agents.
-> Last updated: 2026-06-14
+> Last updated: 2026-06-15
 
 ---
 
@@ -53,29 +53,29 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**K-Dense-AI/claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) | ⭐ 28,154 | `Python` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
-| [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 28,154 | `Python` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
-| [**SakanaAI/AI-Scientist**](https://github.com/SakanaAI/AI-Scientist) | ⭐ 13,964 | `Jupyter Notebook` | The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬 |
-| [**SakanaAI/AI-Scientist-v2**](https://github.com/SakanaAI/AI-Scientist-v2) | ⭐ 6,567 | `Python` | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
-| [**SamuelSchmidgall/AgentLaboratory**](https://github.com/SamuelSchmidgall/AgentLaboratory) | ⭐ 5,686 | `Python` | Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward imp... |
-| [**HKUDS/AI-Researcher**](https://github.com/HKUDS/AI-Researcher) | ⭐ 5,464 | `Python` | [NeurIPS2025] AI-Researcher: Autonomous Scientific Innovation |
-| [**ruc-datalab/DeepAnalyze**](https://github.com/ruc-datalab/DeepAnalyze) | ⭐ 4,224 | `Python` | DeepAnalyze: Autonomous data science agent for automated analysis and insights. |
-| [**foryourhealth111-pixel/Vibe-Skills**](https://github.com/foryourhealth111-pixel/Vibe-Skills) | ⭐ 2,287 | `Python` | Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context manage... |
-| [**openags/paper-search-mcp**](https://github.com/openags/paper-search-mcp) | ⭐ 1,812 | `Python` | A MCP for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc. |
+| [**K-Dense-AI/claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) | ⭐ 28,244 | `Python` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 28,244 | `Python` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [**SakanaAI/AI-Scientist**](https://github.com/SakanaAI/AI-Scientist) | ⭐ 13,974 | `Jupyter Notebook` | The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬 |
+| [**SakanaAI/AI-Scientist-v2**](https://github.com/SakanaAI/AI-Scientist-v2) | ⭐ 6,577 | `Python` | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
+| [**SamuelSchmidgall/AgentLaboratory**](https://github.com/SamuelSchmidgall/AgentLaboratory) | ⭐ 5,688 | `Python` | Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward imp... |
+| [**HKUDS/AI-Researcher**](https://github.com/HKUDS/AI-Researcher) | ⭐ 5,470 | `Python` | [NeurIPS2025] AI-Researcher: Autonomous Scientific Innovation |
+| [**ruc-datalab/DeepAnalyze**](https://github.com/ruc-datalab/DeepAnalyze) | ⭐ 4,231 | `Python` | DeepAnalyze: Autonomous data science agent for automated analysis and insights. |
+| [**foryourhealth111-pixel/Vibe-Skills**](https://github.com/foryourhealth111-pixel/Vibe-Skills) | ⭐ 2,296 | `Python` | Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context manage... |
+| [**openags/paper-search-mcp**](https://github.com/openags/paper-search-mcp) | ⭐ 1,828 | `Python` | A MCP for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc. |
 | [**OpenRaiser/NanoResearch**](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1,503 | `Python` | 🦞+🔬: NanoResearch: The Autonomous AI Research Assistant |
-| [**mims-harvard/ToolUniverse**](https://github.com/mims-harvard/ToolUniverse) | ⭐ 1,449 | `Python` | Democratizing AI scientists with ToolUniverse |
-| [**rashakil-ds/Roadmap-Docs**](https://github.com/rashakil-ds/Roadmap-Docs) | ⭐ 1,078 |  | Best Data Science, Data Analytics, AI, and SDE roadmaps. This repository is continually updated based on the top job ... |
-| [**AutoX-AI-Labs/AutoR**](https://github.com/AutoX-AI-Labs/AutoR) | ⭐ 854 | `Python` | AutoR takes a research goal, runs a fixed 8-stage pipeline with Claude Code, and requires explicit human approval aft... |
-| [**worldbench/awesome-ai-auto-research**](https://github.com/worldbench/awesome-ai-auto-research) | ⭐ 366 |  | 🔥 A Survey on AI Auto-Research |
+| [**mims-harvard/ToolUniverse**](https://github.com/mims-harvard/ToolUniverse) | ⭐ 1,450 | `Python` | Democratizing AI scientists with ToolUniverse |
+| [**rashakil-ds/Roadmap-Docs**](https://github.com/rashakil-ds/Roadmap-Docs) | ⭐ 1,079 |  | Best Data Science, Data Analytics, AI, and SDE roadmaps. This repository is continually updated based on the top job ... |
+| [**AutoX-AI-Labs/AutoR**](https://github.com/AutoX-AI-Labs/AutoR) | ⭐ 855 | `Python` | AutoR takes a research goal, runs a fixed 8-stage pipeline with Claude Code, and requires explicit human approval aft... |
+| [**worldbench/awesome-ai-auto-research**](https://github.com/worldbench/awesome-ai-auto-research) | ⭐ 370 |  | 🔥 A Survey on AI Auto-Research |
 | [**allenai/codescientist**](https://github.com/allenai/codescientist) | ⭐ 339 | `Python` | CodeScientist: An automated scientific discovery system for code-based experiments |
 | [**yogsoth-ai/de-anthropocentric-research-engine**](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) | ⭐ 329 | `TypeScript` | De-Anthropocentric Research Engine — AI-powered academic research automation with deep literature survey, gap analysi... |
 | [**SakanaAI/AI-Scientist-ICLR2025-Workshop-Experiment**](https://github.com/SakanaAI/AI-Scientist-ICLR2025-Workshop-Experiment) | ⭐ 301 | `Python` |  |
-| [**Sibyl-Research-Team/AutoResearch-SibylSystem**](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) | ⭐ 254 | `Python` | Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code |
+| [**Sibyl-Research-Team/AutoResearch-SibylSystem**](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) | ⭐ 255 | `Python` | Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code |
 | [**ResearAI/Awesome-AI-Scientist**](https://github.com/ResearAI/Awesome-AI-Scientist) | ⭐ 245 |  | This is a survey of research on AI scientists, AI researchers, AI engineers, and a series of AI-driven research studies |
 | [**sjtu-sai-agents/EvoMaster**](https://github.com/sjtu-sai-agents/EvoMaster) | ⭐ 196 | `Python` | The Universal Infrastructure for Building Evolving Autonomous Scientific Research Agents. |
-| [**bio-xyz/BioAgents**](https://github.com/bio-xyz/BioAgents) | ⭐ 169 | `TypeScript` | BioAgents: An AI scientist framework for autonomous deep research in biological sciences. Multi-agent system combinin... |
+| [**bio-xyz/BioAgents**](https://github.com/bio-xyz/BioAgents) | ⭐ 171 | `TypeScript` | BioAgents: An AI scientist framework for autonomous deep research in biological sciences. Multi-agent system combinin... |
 | [**InternScience/SGI-Bench**](https://github.com/InternScience/SGI-Bench) | ⭐ 165 | `Python` | Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows |
-| [**InternScience/ResearchClawBench**](https://github.com/InternScience/ResearchClawBench) | ⭐ 159 | `Jupyter Notebook` | ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery |
+| [**InternScience/ResearchClawBench**](https://github.com/InternScience/ResearchClawBench) | ⭐ 160 | `Jupyter Notebook` | ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery |
 | [**openags/Awesome-AI-Scientist-Papers**](https://github.com/openags/Awesome-AI-Scientist-Papers) | ⭐ 155 |  | A collection of resources and papers on AI Scientist / Robot Scientist |
 | [**zjunlp/SciAtlas**](https://github.com/zjunlp/SciAtlas) | ⭐ 126 | `Python` | A Large-Scale Knowledge Graph for Automated Scientific Research |
 | [**dualverse-ai/station**](https://github.com/dualverse-ai/station) | ⭐ 116 | `Python` | The Station, an open-world multi-agent environment that models a miniature scientific ecosystem. |
@@ -103,32 +103,32 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) | ⭐ 86,606 | `Python` | AI agents running research on single-GPU nanochat training automatically |
-| [**wanshuiyin/Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | ⭐ 12,033 | `Python` | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review lo... |
-| [**uditgoenka/autoresearch**](https://github.com/uditgoenka/autoresearch) | ⭐ 5,027 | `Shell` | Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. ... |
-| [**alvinunreal/awesome-autoresearch**](https://github.com/alvinunreal/awesome-autoresearch) | ⭐ 2,202 |  | A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy'... |
-| [**alvinreal/awesome-autoresearch**](https://github.com/alvinreal/awesome-autoresearch) | ⭐ 2,202 |  | A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy'... |
-| [**hyperspaceai/agi**](https://github.com/hyperspaceai/agi) | ⭐ 1,928 |  | The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments v... |
-| [**leo-lilinxiao/codex-autoresearch**](https://github.com/leo-lilinxiao/codex-autoresearch) | ⭐ 1,867 | `Python` | Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verif... |
-| [**RightNow-AI/autokernel**](https://github.com/RightNow-AI/autokernel) | ⭐ 1,406 | `Python` | Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels. |
-| [**WecoAI/aideml**](https://github.com/WecoAI/aideml) | ⭐ 1,319 | `Python` | AIDE: AI-Driven Exploration in the Space of Code. The machine Learning engineering agent that automates AI R&D. |
-| [**greyhaven-ai/autocontext**](https://github.com/greyhaven-ai/autocontext) | ⭐ 1,201 | `Python` | a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on an... |
-| [**evo-hq/evo**](https://github.com/evo-hq/evo) | ⭐ 1,109 | `Python` | A plugin for Claude Code and Codex that turns your codebase into an autoresearch loop — discovers what to measure, in... |
+| [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) | ⭐ 86,849 | `Python` | AI agents running research on single-GPU nanochat training automatically |
+| [**wanshuiyin/Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | ⭐ 12,102 | `Python` | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review lo... |
+| [**uditgoenka/autoresearch**](https://github.com/uditgoenka/autoresearch) | ⭐ 5,041 | `Shell` | Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. ... |
+| [**alvinunreal/awesome-autoresearch**](https://github.com/alvinunreal/awesome-autoresearch) | ⭐ 2,209 |  | A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy'... |
+| [**alvinreal/awesome-autoresearch**](https://github.com/alvinreal/awesome-autoresearch) | ⭐ 2,209 |  | A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy'... |
+| [**hyperspaceai/agi**](https://github.com/hyperspaceai/agi) | ⭐ 1,930 |  | The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments v... |
+| [**leo-lilinxiao/codex-autoresearch**](https://github.com/leo-lilinxiao/codex-autoresearch) | ⭐ 1,886 | `Python` | Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verif... |
+| [**RightNow-AI/autokernel**](https://github.com/RightNow-AI/autokernel) | ⭐ 1,407 | `Python` | Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels. |
+| [**WecoAI/aideml**](https://github.com/WecoAI/aideml) | ⭐ 1,320 | `Python` | AIDE: AI-Driven Exploration in the Space of Code. The machine Learning engineering agent that automates AI R&D. |
+| [**greyhaven-ai/autocontext**](https://github.com/greyhaven-ai/autocontext) | ⭐ 1,204 | `Python` | a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on an... |
+| [**evo-hq/evo**](https://github.com/evo-hq/evo) | ⭐ 1,114 | `Python` | A plugin for Claude Code and Codex that turns your codebase into an autoresearch loop — discovers what to measure, in... |
 | [**WecoAI/awesome-autoresearch**](https://github.com/WecoAI/awesome-autoresearch) | ⭐ 981 |  | Curated list of AutoResearch use cases with optimization traces and open source implementations |
-| [**Human-Agent-Society/CORAL**](https://github.com/Human-Agent-Society/CORAL) | ⭐ 724 | `Python` | multi-agent evolution organization for autoresearch and more |
-| [**TheGreenCedar/codex-autoresearch**](https://github.com/TheGreenCedar/codex-autoresearch) | ⭐ 662 | `TypeScript` | A codex plugin for running optimization loops inside a codebase. It is useful when you have a measurable target and m... |
-| [**ZimoLiao/scholaraio**](https://github.com/ZimoLiao/scholaraio) | ⭐ 518 | `Python` | Scholar All-In-One: A research infrastructure for AI agents |
+| [**Human-Agent-Society/CORAL**](https://github.com/Human-Agent-Society/CORAL) | ⭐ 728 | `Python` | multi-agent evolution organization for autoresearch and more |
+| [**TheGreenCedar/codex-autoresearch**](https://github.com/TheGreenCedar/codex-autoresearch) | ⭐ 687 | `TypeScript` | A codex plugin for running optimization loops inside a codebase. It is useful when you have a measurable target and m... |
+| [**ZimoLiao/scholaraio**](https://github.com/ZimoLiao/scholaraio) | ⭐ 519 | `Python` | Scholar All-In-One: A research infrastructure for AI agents |
 | [**krzysztofdudek/ResearcherSkill**](https://github.com/krzysztofdudek/ResearcherSkill) | ⭐ 235 | `Python` | One file. Your AI agent becomes a scientist. 30+ experiments while you sleep. |
 | [**romovpa/claudini**](https://github.com/romovpa/claudini) | ⭐ 223 | `Python` | Autoresearch for LLM adversarial attacks |
 | [**wadeKeith/autoresearch-qwen**](https://github.com/wadeKeith/autoresearch-qwen) | ⭐ 211 | `Python` | Autonomous Qwen3-VL training-code research on the official DocVQA benchmark. main: NVIDIA multi-GPU, mlx: Apple Silic... |
 | [**ArchishmanSengupta/autovoiceevals**](https://github.com/ArchishmanSengupta/autovoiceevals) | ⭐ 152 | `Python` | A self-improving loop for voice AI agents. Uses karpathy's autoresearch as foundation. |
-| [**zhimin-z/awesome-autoresearch**](https://github.com/zhimin-z/awesome-autoresearch) | ⭐ 123 |  | A curated list of awesome autonomous researcher frameworks |
-| [**AI4Scientist/awesome-autoresearch**](https://github.com/AI4Scientist/awesome-autoresearch) | ⭐ 123 |  | A curated list of awesome autonomous researcher frameworks |
-| [**toddwyl/hl-quant**](https://github.com/toddwyl/hl-quant) | ⭐ 98 | `Python` | heuristic learning quant |
+| [**zhimin-z/awesome-autoresearch**](https://github.com/zhimin-z/awesome-autoresearch) | ⭐ 124 |  | A curated list of awesome autonomous researcher frameworks |
+| [**AI4Scientist/awesome-autoresearch**](https://github.com/AI4Scientist/awesome-autoresearch) | ⭐ 124 |  | A curated list of awesome autonomous researcher frameworks |
+| [**toddwyl/hl-quant**](https://github.com/toddwyl/hl-quant) | ⭐ 109 | `Python` | heuristic learning quant |
 | [**CyrusNuevoDia/gepa-research**](https://github.com/CyrusNuevoDia/gepa-research) | ⭐ 95 | `Python` | A plugin for your agentic framework that optimizes code using the GEPA algorithm (Genetic-Pareto LLM-driven search). |
 | [**Kuberwastaken/litmus**](https://github.com/Kuberwastaken/litmus) | ⭐ 70 | `HTML` | Run a Parallel Autonomous ML Research Organization on your OpenClaw instance.  |
+| [**ferreirafabio/autoresearch-automl**](https://github.com/ferreirafabio/autoresearch-automl) | ⭐ 52 | `Python` |  Can LLMs beat classical HPO? A benchmark comparing classical, LLM-based, and hybrid methods on Karpathy's autoresearch. |
 | [**x-zheng16/JustAsk**](https://github.com/x-zheng16/JustAsk) | ⭐ 52 | `Python` | JustAsk: Curious Code Agents Reveal System Prompts in Frontier LLMs \| Verified on Claude Code \| Autoresearch for Sy... |
-| [**ferreirafabio/autoresearch-automl**](https://github.com/ferreirafabio/autoresearch-automl) | ⭐ 51 | `Python` |  Can LLMs beat classical HPO? A benchmark comparing classical, LLM-based, and hybrid methods on Karpathy's autoresearch. |
 | [**gauravvij/AutoPrompter**](https://github.com/gauravvij/AutoPrompter) | ⭐ 50 | `Python` | AutoResearch + PromptFoo = AutoPrompter. Run it with Neo AI Engineer |
 | [**SeeleAI/Thoth**](https://github.com/SeeleAI/Thoth) | ⭐ 48 | `Python` | 🐦 Thoth — Dashboard-First Orchestration Runtime for Autoresearch |
 | [**hegeo/Lobster-Research**](https://github.com/hegeo/Lobster-Research) | ⭐ 48 | `Python` | AI-Powered Financial Research Report Generator  AI 驱动的金融研究报告生成助手 |
@@ -141,21 +141,21 @@ This list focuses specifically on **AI systems that automate the scientific rese
 | [**JoaquinMulet/Artificial-General-Research**](https://github.com/JoaquinMulet/Artificial-General-Research) | ⭐ 29 |  | Autonomous code optimization that works while you sleep (Autoresearch with Claude Code). Define a metric, point it at... |
 | [**rmarji/autoresearch-openclaw**](https://github.com/rmarji/autoresearch-openclaw) | ⭐ 28 | `JavaScript` | Karpathy's autoresearch loop for non-ML domains: outreach, prediction markets, prompts |
 | [**chanind/claude-auto-research-synthsaebench**](https://github.com/chanind/claude-auto-research-synthsaebench) | ⭐ 23 | `Python` |  |
+| [**HolobiomicsLab/Mimosa-AI**](https://github.com/HolobiomicsLab/Mimosa-AI) | ⭐ 23 | `Python` | Autonomous AI scientist that writes, runs, and improves its own multi-agent workflows. Powered by MCP tool discovery ... |
 | [**199-biotechnologies/autoresearch-cli**](https://github.com/199-biotechnologies/autoresearch-cli) | ⭐ 23 | `Rust` | Autonomous AI experiment loop CLI -- run research overnight with any coding agent |
 | [**paperfoot/autoresearch-cli**](https://github.com/paperfoot/autoresearch-cli) | ⭐ 23 | `Rust` | Autonomous AI experiment loop CLI -- run research overnight with any coding agent |
 | [**ar0cket1/hermes-research-agent**](https://github.com/ar0cket1/hermes-research-agent) | ⭐ 23 | `Python` | Research-focused fork of Hermes Agent for autonomous end-to-end LLM research loops. |
-| [**HolobiomicsLab/Mimosa-AI**](https://github.com/HolobiomicsLab/Mimosa-AI) | ⭐ 22 | `Python` | Autonomous AI scientist that writes, runs, and improves its own multi-agent workflows. Powered by MCP tool discovery ... |
 | [**arbazkhan971/godmode**](https://github.com/arbazkhan971/godmode) | ⭐ 22 | `Shell` | Autonomous AI coding agent — 126 skills, 7 subagents, 5 platforms. Iterative optimization with automatic rollback, fa... |
+| [**scaling-group/eve**](https://github.com/scaling-group/eve) | ⭐ 19 | `Python` | EvE is an open-source framework for co-evolving ensembles of coding agents. Wrap any coding agent — Codex, Claude Cod... |
 | [**VectorInstitute/helix**](https://github.com/VectorInstitute/helix) | ⭐ 18 | `Python` | Autonomous research loops. Reproducible, shareable, verifiable. |
+| [**wjgoarxiv/autoresearch-skill**](https://github.com/wjgoarxiv/autoresearch-skill) | ⭐ 18 | `Shell` | Autonomous research loop skill for LLM agents — inspired by Karpathy's autoresearch. Define a goal, let the agent ite... |
 | [**OpenRaiser/PaperFlow**](https://github.com/OpenRaiser/PaperFlow) | ⭐ 18 | `Python` | 📚 PaperFlow: Dynamic personalized scientific-paper recommendation, reading, and reporting |
 | [**VictorVVedtion/ouro-loop**](https://github.com/VictorVVedtion/ouro-loop) | ⭐ 17 | `Python` | Give AI coding agents (Claude Code, Cursor, Aider, Codex) a structured autonomous loop with guardrails — boundaries, ... |
-| [**wjgoarxiv/autoresearch-skill**](https://github.com/wjgoarxiv/autoresearch-skill) | ⭐ 17 | `Shell` | Autonomous research loop skill for LLM agents — inspired by Karpathy's autoresearch. Define a goal, let the agent ite... |
 | [**AI4Scientist/learn-auto-research**](https://github.com/AI4Scientist/learn-auto-research) | ⭐ 16 | `Python` | AutoResearch official style beginner tutorial, from 0 to 1 |
 | [**GodModeAI2025/skill-forge**](https://github.com/GodModeAI2025/skill-forge) | ⭐ 14 | `HTML` | Autonomous AI skill improvement through iterative experimentation — inspired by Karpathy's autoresearch. An agent mut... |
 | [**OthmanAdi/researchclaw-skill**](https://github.com/OthmanAdi/researchclaw-skill) | ⭐ 14 | `Shell` | Turn your coding agent into a one-command autonomous research paper generator. Wraps AutoResearchClaw's 23-stage pipe... |
 | [**francescoalemanno/dex**](https://github.com/francescoalemanno/dex) | ⭐ 14 | `Rust` | A structured orchestrator for AI coding agents. Give it a request — it plans, implements, and reviews the work automa... |
 | [**qriostech/coresearch**](https://github.com/qriostech/coresearch) | ⭐ 13 | `TypeScript` | Accelerate research by running parallel experiments that evolve autonomously. |
-| [**scaling-group/eve**](https://github.com/scaling-group/eve) | ⭐ 13 | `Python` | EvE is an open-source framework for co-evolving ensembles of coding agents. Wrap any coding agent — Codex, Claude Cod... |
 | [**Muminur/autoresearch-skill-Andrej-Karpathy**](https://github.com/Muminur/autoresearch-skill-Andrej-Karpathy) | ⭐ 12 |  | Claude Code skill for autonomous, goal-directed iteration. /autoresearch <goal> builds a real-data benchmark harness,... |
 | [**xujx1/dev-workflow**](https://github.com/xujx1/dev-workflow) | ⭐ 11 | `JavaScript` | 一套跑在 Claude Code 里的 Java TDD 全流程自动化插件。从 MRD 到可跑通单测的代码，全程 AI 驱动，人在关键节点确认。 |
 | [**proyecto26/autoresearch-ai-plugin**](https://github.com/proyecto26/autoresearch-ai-plugin) | ⭐ 11 | `Python` | AI Agent plugin for Autoresearch with AI (Claude, OpenClaw, etc) to improve anything! |
@@ -168,75 +168,75 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) | ⭐ 82,675 | `Python` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent c... |
-| [**bytedance/deer-flow**](https://github.com/bytedance/deer-flow) | ⭐ 71,130 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memor... |
-| [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) | ⭐ 41,443 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a ... |
-| [**666ghj/BettaFish**](https://github.com/666ghj/BettaFish) | ⭐ 41,375 | `Python` | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
-| [**khoj-ai/khoj**](https://github.com/khoj-ai/khoj) | ⭐ 35,111 | `Python` | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations... |
-| [**stanford-oval/storm**](https://github.com/stanford-oval/storm) | ⭐ 28,362 | `Python` | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
-| [**assafelovic/gpt-researcher**](https://github.com/assafelovic/gpt-researcher) | ⭐ 27,689 | `Python` | An autonomous agent that conducts deep research on any data using any LLM providers |
-| [**Alibaba-NLP/DeepResearch**](https://github.com/Alibaba-NLP/DeepResearch) | ⭐ 19,388 | `Python` | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
-| [**dzhng/deep-research**](https://github.com/dzhng/deep-research) | ⭐ 19,116 | `TypeScript` | An AI-powered research assistant that performs iterative, deep research on any topic. |
-| [**arc53/DocsGPT**](https://github.com/arc53/DocsGPT) | ⭐ 17,932 | `Python` | Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document ana... |
-| [**LearningCircuit/local-deep-research**](https://github.com/LearningCircuit/local-deep-research) | ⭐ 8,468 | `Python` | Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ol... |
-| [**MiroMindAI/MiroThinker**](https://github.com/MiroMindAI/MiroThinker) | ⭐ 8,274 | `Python` | MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThin... |
-| [**zilliztech/deep-searcher**](https://github.com/zilliztech/deep-searcher) | ⭐ 7,875 | `Python` | Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. |
+| [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) | ⭐ 82,791 | `Python` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent c... |
+| [**bytedance/deer-flow**](https://github.com/bytedance/deer-flow) | ⭐ 71,207 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memor... |
+| [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) | ⭐ 42,430 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a ... |
+| [**666ghj/BettaFish**](https://github.com/666ghj/BettaFish) | ⭐ 41,389 | `Python` | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [**khoj-ai/khoj**](https://github.com/khoj-ai/khoj) | ⭐ 35,138 | `Python` | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations... |
+| [**stanford-oval/storm**](https://github.com/stanford-oval/storm) | ⭐ 28,370 | `Python` | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| [**assafelovic/gpt-researcher**](https://github.com/assafelovic/gpt-researcher) | ⭐ 27,716 | `Python` | An autonomous agent that conducts deep research on any data using any LLM providers |
+| [**Alibaba-NLP/DeepResearch**](https://github.com/Alibaba-NLP/DeepResearch) | ⭐ 19,400 | `Python` | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| [**dzhng/deep-research**](https://github.com/dzhng/deep-research) | ⭐ 19,124 | `TypeScript` | An AI-powered research assistant that performs iterative, deep research on any topic. |
+| [**arc53/DocsGPT**](https://github.com/arc53/DocsGPT) | ⭐ 17,936 | `Python` | Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document ana... |
+| [**LearningCircuit/local-deep-research**](https://github.com/LearningCircuit/local-deep-research) | ⭐ 8,477 | `Python` | Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ol... |
+| [**MiroMindAI/MiroThinker**](https://github.com/MiroMindAI/MiroThinker) | ⭐ 8,292 | `Python` | MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThin... |
+| [**zilliztech/deep-searcher**](https://github.com/zilliztech/deep-searcher) | ⭐ 7,888 | `Python` | Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. |
 | [**nickscamara/open-deep-research**](https://github.com/nickscamara/open-deep-research) | ⭐ 6,251 | `TypeScript` | An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl |
-| [**u14app/deep-research**](https://github.com/u14app/deep-research) | ⭐ 4,609 | `JavaScript` | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server. |
-| [**modelscope/ms-agent**](https://github.com/modelscope/ms-agent) | ⭐ 4,296 | `Python` | MS-Agent: a lightweight framework to empower agentic execution of complex tasks |
-| [**SkyworkAI/DeepResearchAgent**](https://github.com/SkyworkAI/DeepResearchAgent) | ⭐ 3,455 | `Python` | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general... |
-| [**johnbean393/Sidekick**](https://github.com/johnbean393/Sidekick) | ⭐ 3,271 | `Swift` | A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders a... |
-| [**MiroMindAI/MiroFlow**](https://github.com/MiroMindAI/MiroFlow) | ⭐ 3,037 | `Python` | 🏆 Top-1 on 5+ benchmarks \| Web UI \| Supports MiroThinker, Claude, Kimi, OpenAI |
-| [**starpig1129/DATAGEN**](https://github.com/starpig1129/DATAGEN) | ⭐ 1,751 | `Python` | DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing.  |
+| [**u14app/deep-research**](https://github.com/u14app/deep-research) | ⭐ 4,611 | `JavaScript` | Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server. |
+| [**modelscope/ms-agent**](https://github.com/modelscope/ms-agent) | ⭐ 4,298 | `Python` | MS-Agent: a lightweight framework to empower agentic execution of complex tasks |
+| [**SkyworkAI/DeepResearchAgent**](https://github.com/SkyworkAI/DeepResearchAgent) | ⭐ 3,458 | `Python` | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general... |
+| [**johnbean393/Sidekick**](https://github.com/johnbean393/Sidekick) | ⭐ 3,273 | `Swift` | A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders a... |
+| [**MiroMindAI/MiroFlow**](https://github.com/MiroMindAI/MiroFlow) | ⭐ 3,038 | `Python` | 🏆 Top-1 on 5+ benchmarks \| Web UI \| Supports MiroThinker, Claude, Kimi, OpenAI |
+| [**starpig1129/DATAGEN**](https://github.com/starpig1129/DATAGEN) | ⭐ 1,752 | `Python` | DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing.  |
 | [**HKUDS/Auto-Deep-Research**](https://github.com/HKUDS/Auto-Deep-Research) | ⭐ 1,562 | `Python` | "Your Fully-Automated Personal AI Assistant" |
 | [**gomate-community/TrustRAG**](https://github.com/gomate-community/TrustRAG) | ⭐ 1,263 | `Python` | TrustRAG：The RAG Framework within Reliable input,Trusted output |
 | [**browserable/browserable**](https://github.com/browserable/browserable) | ⭐ 1,193 | `JavaScript` | Open source and self-hostable browser automation library for AI agents |
 | [**vamplabAI/sgr-agent-core**](https://github.com/vamplabAI/sgr-agent-core) | ⭐ 1,093 | `Python` | Schema-Guided Reasoning (SGR) has agentic system design created by neuraldeep community |
 | [**IAAR-Shanghai/SurveyX**](https://github.com/IAAR-Shanghai/SurveyX) | ⭐ 977 | `TeX` | Academic Survey Paper Generation. |
 | [**principia-ai/WriteHERE**](https://github.com/principia-ai/WriteHERE) | ⭐ 932 | `Python` | An Open-Source AI Writing Project. |
-| [**zamalali/DeepGit**](https://github.com/zamalali/DeepGit) | ⭐ 882 | `Python` | Deep research agent to help you find the best GitHub repositories 🕵️! |
-| [**vstorm-co/pydantic-deepagents**](https://github.com/vstorm-co/pydantic-deepagents) | ⭐ 865 | `Python` | Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoi... |
+| [**zamalali/DeepGit**](https://github.com/zamalali/DeepGit) | ⭐ 880 | `Python` | Deep research agent to help you find the best GitHub repositories 🕵️! |
+| [**vstorm-co/pydantic-deepagents**](https://github.com/vstorm-co/pydantic-deepagents) | ⭐ 866 | `Python` | Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoi... |
 | [**heurist-network/heurist-agent-framework**](https://github.com/heurist-network/heurist-agent-framework) | ⭐ 817 | `Python` | A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, bl... |
-| [**TIGER-AI-Lab/OpenResearcher**](https://github.com/TIGER-AI-Lab/OpenResearcher) | ⭐ 780 | `Python` | OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis |
-| [**qx-labs/agents-deep-research**](https://github.com/qx-labs/agents-deep-research) | ⭐ 772 | `Python` | An implementation of iterative deep research using the OpenAI Agents SDK |
-| [**DavidZWZ/Awesome-Deep-Research**](https://github.com/DavidZWZ/Awesome-Deep-Research) | ⭐ 763 |  | [Up-to-date] Awesome Agentic Deep Research Resources |
-| [**Ayanami0730/deep_research_bench**](https://github.com/Ayanami0730/deep_research_bench) | ⭐ 753 | `Python` | DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents |
+| [**TIGER-AI-Lab/OpenResearcher**](https://github.com/TIGER-AI-Lab/OpenResearcher) | ⭐ 781 | `Python` | OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis |
+| [**qx-labs/agents-deep-research**](https://github.com/qx-labs/agents-deep-research) | ⭐ 773 | `Python` | An implementation of iterative deep research using the OpenAI Agents SDK |
+| [**DavidZWZ/Awesome-Deep-Research**](https://github.com/DavidZWZ/Awesome-Deep-Research) | ⭐ 766 |  | [Up-to-date] Awesome Agentic Deep Research Resources |
+| [**Ayanami0730/deep_research_bench**](https://github.com/Ayanami0730/deep_research_bench) | ⭐ 754 | `Python` | DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents |
 | [**Tencent/CognitiveKernel-Pro**](https://github.com/Tencent/CognitiveKernel-Pro) | ⭐ 518 | `Python` | Deep Research Agent CognitiveKernel-Pro from Tencent AI Lab. Paper: https://arxiv.org/pdf/2508.00414 |
 | [**AQ-MedAI/MedResearcher-R1**](https://github.com/AQ-MedAI/MedResearcher-R1) | ⭐ 507 | `Python` | MedResearcher-R1 is a deep research agent for medical scenarios, built on a knowledge-informed trajectory synthesis f... |
 | [**CopilotKit/open-multi-agent-canvas**](https://github.com/CopilotKit/open-multi-agent-canvas) | ⭐ 503 | `TypeScript` | The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add M... |
-| [**cyanheads/atlas-mcp-server**](https://github.com/cyanheads/atlas-mcp-server) | ⭐ 475 | `TypeScript` | A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing... |
+| [**cyanheads/atlas-mcp-server**](https://github.com/cyanheads/atlas-mcp-server) | ⭐ 477 | `TypeScript` | A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing... |
 | [**NVlabs/UniversalDeepResearch**](https://github.com/NVlabs/UniversalDeepResearch) | ⭐ 463 | `Python` | Code to accompany the Universal Deep Research paper (https://arxiv.org/abs/2509.00244) |
-| [**jordan-gibbs/hyperresearch**](https://github.com/jordan-gibbs/hyperresearch) | ⭐ 456 | `Python` | Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchab... |
-| [**iusztinpaul/designing-real-world-ai-agents-workshop**](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop) | ⭐ 444 | `Python` | Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP ... |
+| [**jordan-gibbs/hyperresearch**](https://github.com/jordan-gibbs/hyperresearch) | ⭐ 459 | `Python` | Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchab... |
+| [**iusztinpaul/designing-real-world-ai-agents-workshop**](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop) | ⭐ 445 | `Python` | Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP ... |
 | [**scienceaix/deepresearch**](https://github.com/scienceaix/deepresearch) | ⭐ 433 |  | Awesome Deep Research list! For more details, please refer to our survey paper -- A Comprehensive Survey of Deep Rese... |
 | [**lucienhuangfu/eLLM**](https://github.com/lucienhuangfu/eLLM) | ⭐ 425 | `Rust` | eLLM Infers LLM on CPUs in Real Time |
 | [**HarshJ23/Deeper-Seeker**](https://github.com/HarshJ23/Deeper-Seeker) | ⭐ 412 | `Python` | Deeper Seeker is an simpler OSS version of OpenAI's latest Deep Research feature in ChatGPT.It is an agentic research... |
 | [**microsoft/DeepVideoDiscovery**](https://github.com/microsoft/DeepVideoDiscovery) | ⭐ 396 | `Python` | **Deep Video Discovery (DVD)** is a deep-research style question answering agent designed for understanding extra-lon... |
 | [**assafelovic/gptr-mcp**](https://github.com/assafelovic/gptr-mcp) | ⭐ 351 | `Python` | MCP server for enabling LLM applications to perform deep research via the MCP protocol |
+| [**hoolulu/deep-research**](https://github.com/hoolulu/deep-research) | ⭐ 331 | `HTML` | 深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages |
 | [**Pthahnix/De-Anthropocentric-Research-Engine**](https://github.com/Pthahnix/De-Anthropocentric-Research-Engine) | ⭐ 329 | `TypeScript` | De-Anthropocentric Research Engine — AI-powered academic research automation with deep literature survey, gap analysi... |
-| [**sanjay3290/ai-skills**](https://github.com/sanjay3290/ai-skills) | ⭐ 319 | `Python` | Collection of agent skills for AI coding assistants |
+| [**sanjay3290/ai-skills**](https://github.com/sanjay3290/ai-skills) | ⭐ 322 | `Python` | Collection of agent skills for AI coding assistants |
 | [**OctagonAI/kalshi-deep-trading-bot**](https://github.com/OctagonAI/kalshi-deep-trading-bot) | ⭐ 317 | `Python` | A straightforward trading bot for Kalshi prediction markets that uses Octagon Deep Research for market analysis and O... |
 | [**OctagonAI/kalshi-trading-bot-cli**](https://github.com/OctagonAI/kalshi-trading-bot-cli) | ⭐ 317 | `TypeScript` | AI-native CLI for trading Kalshi prediction markets. Runs deep fundamental research, generates independent probabilit... |
+| [**Prompthon-IO/agent-systems-handbook**](https://github.com/Prompthon-IO/agent-systems-handbook) | ⭐ 315 | `MDX` | A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP, A2A, context engineering, a... |
 | [**AIDC-AI/Marco-DeepResearch**](https://github.com/AIDC-AI/Marco-DeepResearch) | ⭐ 314 | `Python` | Marco Search Agent for Realistic and Challenging Agentic Search |
-| [**Prompthon-IO/agent-systems-handbook**](https://github.com/Prompthon-IO/agent-systems-handbook) | ⭐ 314 | `MDX` | A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP, A2A, context engineering, a... |
-| [**hoolulu/deep-research**](https://github.com/hoolulu/deep-research) | ⭐ 310 | `HTML` | 深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages |
 | [**texttron/BrowseComp-Plus**](https://github.com/texttron/BrowseComp-Plus) | ⭐ 296 | `Python` | BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent |
 | [**hawkli-1994/deerflow-book**](https://github.com/hawkli-1994/deerflow-book) | ⭐ 286 | `JavaScript` | 本书围绕 DeerFlow 2.0，从理论到源码，系统讲解如何进行二次开发。 |
 | [**Osilly/Awesome-Interleaving-Reasoning**](https://github.com/Osilly/Awesome-Interleaving-Reasoning) | ⭐ 280 |  | Interleaving Reasoning: Next-Generation Reasoning Systems for AGI |
-| [**opendatalab/MinerU-HTML**](https://github.com/opendatalab/MinerU-HTML) | ⭐ 259 | `Python` | MinerU-HTML: An SLM-powered HTML main content extractor that outputs clean HTML bodies. Perfect for Deep Research Age... |
-| [**liangdabiao/Claude-Code-Deep-Research-main**](https://github.com/liangdabiao/Claude-Code-Deep-Research-main) | ⭐ 253 |  | 利用claude code agent框架一步一步实现deep research！很强大很简单的skills。我一步一步介绍实现deep research，因为deep research就是agent框架第一应用，对比一下各个框架实现... |
+| [**opendatalab/MinerU-HTML**](https://github.com/opendatalab/MinerU-HTML) | ⭐ 260 | `Python` | MinerU-HTML: An SLM-powered HTML main content extractor that outputs clean HTML bodies. Perfect for Deep Research Age... |
+| [**liangdabiao/Claude-Code-Deep-Research-main**](https://github.com/liangdabiao/Claude-Code-Deep-Research-main) | ⭐ 252 |  | 利用claude code agent框架一步一步实现deep research！很强大很简单的skills。我一步一步介绍实现deep research，因为deep research就是agent框架第一应用，对比一下各个框架实现... |
 | [**MiroMindAI/MiroRL**](https://github.com/MiroMindAI/MiroRL) | ⭐ 246 | `Python` | MiroRL is  an MCP-first reinforcement learning framework for deep research agent. |
-| [**guestrin-lab/deepscholar**](https://github.com/guestrin-lab/deepscholar) | ⭐ 242 | `Python` | build and benchmark deep research |
+| [**guestrin-lab/deepscholar**](https://github.com/guestrin-lab/deepscholar) | ⭐ 243 | `Python` | build and benchmark deep research |
 | [**liyuan24/nanoDeepResearch**](https://github.com/liyuan24/nanoDeepResearch) | ⭐ 221 | `Python` | A Deep Research agent from scratch |
-| [**dair-ai/m2-deep-research**](https://github.com/dair-ai/m2-deep-research) | ⭐ 214 | `Python` | Deep research agents using MiniMax M2.1 interleaved thinking |
+| [**dair-ai/m2-deep-research**](https://github.com/dair-ai/m2-deep-research) | ⭐ 215 | `Python` | Deep research agents using MiniMax M2.1 interleaved thinking |
+| [**RUC-NLPIR/FinSight**](https://github.com/RUC-NLPIR/FinSight) | ⭐ 214 | `Jupyter Notebook` | FinSight: Towards Real-World Financial Deep Research. 🎯One ticker, one click, one publication-ready report. |
 | [**HisMax/awesome-openclaw-ob**](https://github.com/HisMax/awesome-openclaw-ob) | ⭐ 214 | `Python` | OpenClaw 深度研究 Obsidian 知识库 \| 351 篇笔记 · 3250+ 双链 · 100 张配图 · 9 大主题 \| AI Agent 最全中文知识图谱 |
-| [**RUC-NLPIR/FinSight**](https://github.com/RUC-NLPIR/FinSight) | ⭐ 213 | `Jupyter Notebook` | FinSight: Towards Real-World Financial Deep Research. 🎯One ticker, one click, one publication-ready report. |
 | [**tarun7r/deep-research-agent**](https://github.com/tarun7r/deep-research-agent) | ⭐ 172 | `Python` | Multi-agent autonomous research system using LangGraph and LangChain. Generates citation-backed reports with credibil... |
 | [**codebucks27/Deep-Research-AI-Agent**](https://github.com/codebucks27/Deep-Research-AI-Agent) | ⭐ 161 | `TypeScript` | Build a powerful Deep Research AI agent like Gemini or ChatGPT. Using Next.js, Vercel AI SDK, and Exa Search API, An ... |
-| [**ai-naymul/BrowserPilot**](https://github.com/ai-naymul/BrowserPilot) | ⭐ 159 | `Python` | Open‑source alternative to Perplexity Comet, director.ai and firecrawl combined |
+| [**ai-naymul/BrowserPilot**](https://github.com/ai-naymul/BrowserPilot) | ⭐ 160 | `Python` | Open‑source alternative to Perplexity Comet, director.ai and firecrawl combined |
 | [**kaymen99/local-rag-researcher-deepseek**](https://github.com/kaymen99/local-rag-researcher-deepseek) | ⭐ 141 | `Python` | Local RAG researcher agent built using Langgraph, DeepSeek R1 and Ollama |
 | [**grapeot/deep_research_agent**](https://github.com/grapeot/deep_research_agent) | ⭐ 138 | `Python` | An Agentic Deep Research Assistant similar to Gemini and OpenAI Deep Research |
-| [**Infinity-AILab/DeepResearchEval**](https://github.com/Infinity-AILab/DeepResearchEval) | ⭐ 137 | `Python` | DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation. |
+| [**Infinity-AILab/DeepResearchEval**](https://github.com/Infinity-AILab/DeepResearchEval) | ⭐ 138 | `Python` | DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation. |
 | [**liugangcode/deepevolve**](https://github.com/liugangcode/deepevolve) | ⭐ 136 | `Python` | DeepEvolve is a research and coding agent for new algorithm discovery in different science domains with Deep Research... |
 | [**jkudish/librarium**](https://github.com/jkudish/librarium) | ⭐ 120 | `TypeScript` | Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel |
 | [**SalesforceAIResearch/LiveResearchBench**](https://github.com/SalesforceAIResearch/LiveResearchBench) | ⭐ 118 | `Python` | A live benchmark and evaluation framework for open-ended deep research in the wild. |
@@ -273,10 +273,10 @@ This list focuses specifically on **AI systems that automate the scientific rese
 | [**hwfengcs/SDYJ_Multi_Agents**](https://github.com/hwfengcs/SDYJ_Multi_Agents) | ⭐ 50 | `Python` | A LangGraph-powered multi-agent deep research system featuring task planning, human-in-the-loop review, multi-source ... |
 | [**shibing624/WebResearcher**](https://github.com/shibing624/WebResearcher) | ⭐ 48 | `Python` | WebResearcher: An Iterative Deep-Research Agent，迭代式深度研究智能体 |
 | [**k-kolomeitsev/agent-browser-workspace**](https://github.com/k-kolomeitsev/agent-browser-workspace) | ⭐ 47 | `JavaScript` | Local browser toolkit for AI agents: deep research and browser use automation with local Chrome (CDP) + Playwright. F... |
+| [**didilili/deepsearch-agents**](https://github.com/didilili/deepsearch-agents) | ⭐ 47 | `Python` | 🔎 深度研搜对话式多智能体 AI Agents，最适合系统学习 DeepAgents 的实战项目｜AI Deep Research Agent 实战 · LangGraph + RAGFlow + Tavily + FastAPI +... |
 | [**FareedKhan-dev/deep-research-agent**](https://github.com/FareedKhan-dev/deep-research-agent) | ⭐ 46 | `Jupyter Notebook` | Deep research agentic system using Time Test Diffusion |
-| [**didilili/deepsearch-agents**](https://github.com/didilili/deepsearch-agents) | ⭐ 46 | `Python` | 🔎 深度研搜对话式多智能体 AI Agents，最适合系统学习 DeepAgents 的实战项目｜AI Deep Research Agent 实战 · LangGraph + RAGFlow + Tavily + FastAPI +... |
+| [**havingautism/Qurio**](https://github.com/havingautism/Qurio) | ⭐ 44 | `JavaScript` | Qurio brings multi-provider models, custom agents, reusable skills, MCP servers, HTTP tools, retrieval, long-term mem... |
 | [**samugit83/AutoCodeAgent2.0**](https://github.com/samugit83/AutoCodeAgent2.0) | ⭐ 44 | `Python` | AutoCodeAgent - An innovative AI agent powered by IntelliChain, Deep Search, and multi-RAG techniques |
-| [**havingautism/Qurio**](https://github.com/havingautism/Qurio) | ⭐ 43 | `JavaScript` | Qurio brings multi-provider models, custom agents, reusable skills, MCP servers, HTTP tools, retrieval, long-term mem... |
 | [**cmpnd-ai/dspy-tutorial-deep-research**](https://github.com/cmpnd-ai/dspy-tutorial-deep-research) | ⭐ 43 | `Jupyter Notebook` | Learn DSPy's core abstractions while building a deep research agent. |
 | [**introlix/introlix-app**](https://github.com/introlix/introlix-app) | ⭐ 43 | `TypeScript` | An AI-powered research platform that transforms how you conduct research |
 | [**GitsSaikat/Deep-Research-Arxiv**](https://github.com/GitsSaikat/Deep-Research-Arxiv) | ⭐ 41 | `Python` | Do literature review Fast, Simple and Reliable |
@@ -284,19 +284,19 @@ This list focuses specifically on **AI systems that automate the scientific rese
 | [**Mrbaeksang/deepcloak**](https://github.com/Mrbaeksang/deepcloak) | ⭐ 40 | `Python` | Local-first deep research agent that reads the whole web — even pages behind Cloudflare, Datadome, Turnstile & reCAPT... |
 | [**cxbxmxcx/AI-Agent-Workflows**](https://github.com/cxbxmxcx/AI-Agent-Workflows) | ⭐ 39 | `Python` | This repository is for the book - Build a Deep Research Agent from Scratch (working title) |
 | [**bin123apple/InfantAgent**](https://github.com/bin123apple/InfantAgent) | ⭐ 38 | `Python` | [NeurIPS 2025] A multimodal agent that can interact with its own PC in a multimodal manner.  |
+| [**QuintinShaw/pi-dynamic-workflows**](https://github.com/QuintinShaw/pi-dynamic-workflows) | ⭐ 38 | `TypeScript` | Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktr... |
 | [**AlexFanw/DeepPlanner**](https://github.com/AlexFanw/DeepPlanner) | ⭐ 37 | `Python` | Code and dataset for paper: DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping |
+| [**nex-agi/NexDR**](https://github.com/nex-agi/NexDR) | ⭐ 37 | `Python` | NexDR (Nex Deep Research), a leading deep research agent that autonomously investigates complex topics and generates ... |
 | [**lutzroeder/agents**](https://github.com/lutzroeder/agents) | ⭐ 36 | `Python` | Minimal coding, computer-use and deep research agents using the OpenAI Agents SDK |
-| [**nex-agi/NexDR**](https://github.com/nex-agi/NexDR) | ⭐ 36 | `Python` | NexDR (Nex Deep Research), a leading deep research agent that autonomously investigates complex topics and generates ... |
 | [**MVPandey/DTS**](https://github.com/MVPandey/DTS) | ⭐ 36 | `Python` |   🌳 MCTS-inspired parallel beam search for conversation optimization. Explore multiple dialogue strategies simultaneo... |
 | [**ssdeanx/deep-research**](https://github.com/ssdeanx/deep-research) | ⭐ 35 | `TypeScript` | The Deep Research Assistant is meticulously crafted on Mastra's modular, scalable architecture, designed for intellig... |
-| [**QuintinShaw/pi-dynamic-workflows**](https://github.com/QuintinShaw/pi-dynamic-workflows) | ⭐ 35 | `TypeScript` | Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktr... |
 | [**DesignOps6ix9/OpenDeepResearch**](https://github.com/DesignOps6ix9/OpenDeepResearch) | ⭐ 34 | `Python` | OpenDeepResearch：让你保持对于深度研究过程的掌控感。它是一个研究过程可交互的深度研究 Agent，解决了传统 deep research 黑盒不可控、结果偏差难纠正的问题，用户可以在研究过程中随时介入、调整策略，减少跑... |
 | [**22f2000147/qwen_deep_researcher**](https://github.com/22f2000147/qwen_deep_researcher) | ⭐ 34 | `Python` | A deep researcher agent that can take any topic and generate a research report in markdown with sources intact, all d... |
 | [**anilsharmay/full-stack-local-deep-research-agent**](https://github.com/anilsharmay/full-stack-local-deep-research-agent) | ⭐ 34 | `Python` | Deploying full-stack on-prem deep research agent that can be run entirely on a local machine for $0!  |
 | [**mastra-ai/template-deep-research**](https://github.com/mastra-ai/template-deep-research) | ⭐ 34 | `TypeScript` | Advanced AI deep research assistant using Mastra's workflows and agent capabilities. Creates an interactive, human-in... |
 | [**glide-the/InterpretationoDreams**](https://github.com/glide-the/InterpretationoDreams) | ⭐ 33 | `Jupyter Notebook` | 基于langchain设计的智能体任务，包含规划会话场景资源，构建子任务，任务执行器包含（MCTS） |
+| [**Jiaranbb/report-helper**](https://github.com/Jiaranbb/report-helper) | ⭐ 33 | `Python` | 长篇深度研究报告的调研/写作助手，一句话自动跑完完整报告输出高质量 PDF 报告 |
 | [**justinlietz93/Apex-CodeGenesis**](https://github.com/justinlietz93/Apex-CodeGenesis) | ⭐ 32 | `TypeScript` | Apex: An advanced autonomous coding agent for VS Code featuring total autonomy modes, recursive chain-of-thought reas... |
-| [**Jiaranbb/report-helper**](https://github.com/Jiaranbb/report-helper) | ⭐ 31 | `Python` | 长篇深度研究报告的调研/写作助手，一句话自动跑完完整报告输出高质量 PDF 报告 |
 | [**proyecto26/sherlock-ai-plugin**](https://github.com/proyecto26/sherlock-ai-plugin) | ⭐ 30 | `TypeScript` | Sherlock AI plugin; Research & Implementation Supercharged with a curated list of AI skills |
 | [**shareAI-lab/deep-research-use-browser**](https://github.com/shareAI-lab/deep-research-use-browser) | ⭐ 30 | `JavaScript` | 浏览器侧边栏的Deep Research助手 🖥️ 通过我们的浏览器扩展，您可以在浏览网页的同时进行深度研究和搜索，无需切换标签页，提升您的工作效率！  深度集成多种大模型接口，支持 DeepSeek，Open AI，以及 LM St... |
 | [**saintsauceee/thread-lens**](https://github.com/saintsauceee/thread-lens) | ⭐ 29 | `TypeScript` | Multi-Agent Deep Research System for Reddit |
@@ -329,22 +329,22 @@ This list focuses specifically on **AI systems that automate the scientific rese
 | [**marcelsamyn/deep-research-agent**](https://github.com/marcelsamyn/deep-research-agent) | ⭐ 19 | `TypeScript` | A2A agent implementing OpenDeepResearch |
 | [**usemanusai/free-deep-research**](https://github.com/usemanusai/free-deep-research) | ⭐ 18 | `Rust` | A revolutionary, multi-component research automation platform that combines advanced AI agent orchestration, cross-pl... |
 | [**precious112/prism-ai-deep-research**](https://github.com/precious112/prism-ai-deep-research) | ⭐ 18 | `TypeScript` | Open Source Deep Research and Learning Agent (Perplexity Pro Alternative). Orchestrates autonomous researchers using ... |
+| [**mvanhorn/clawdbot-skill-parallel**](https://github.com/mvanhorn/clawdbot-skill-parallel) | ⭐ 18 | `Python` | High-accuracy web research via Parallel.ai API - outperforms Perplexity and Exa on benchmarks. Rich excerpts, citatio... |
 | [**black-yt/Manalyzer**](https://github.com/black-yt/Manalyzer) | ⭐ 18 | `Python` | Manalyzer: End-to-end Automated Meta-analysis with Multi-agent System |
 | [**danielrosehill/Claude-Deep-Research-Template**](https://github.com/danielrosehill/Claude-Deep-Research-Template) | ⭐ 18 |  | Template for Claude Code deep research pattern |
 | [**microsoft/livedrbench**](https://github.com/microsoft/livedrbench) | ⭐ 18 | `Python` | Live Deep Research Bench. A challenging, objective benchmark for deep research tasks. |
 | [**ratacat/pro-cli**](https://github.com/ratacat/pro-cli) | ⭐ 18 | `TypeScript` | Agent native CLI for querying ChatGPT Pro and Deep Research through your own logged-in web session, managed from your... |
-| [**mvanhorn/clawdbot-skill-parallel**](https://github.com/mvanhorn/clawdbot-skill-parallel) | ⭐ 17 | `Python` | High-accuracy web research via Parallel.ai API - outperforms Perplexity and Exa on benchmarks. Rich excerpts, citatio... |
 | [**ssdeanx/secure-rag-multi-agent**](https://github.com/ssdeanx/secure-rag-multi-agent) | ⭐ 17 | `TypeScript` | Secure Retrieval-Augmented Generation (RAG) with role-based access control using Mastra AI orchestration, with JWT Se... |
 | [**sciknoworg/deep-research**](https://github.com/sciknoworg/deep-research) | ⭐ 17 | `Python` | AI-based deep research system |
 | [**MagicCube/deep-research**](https://github.com/MagicCube/deep-research) | ⭐ 17 | `Python` | A Deep Research replica built with LangChain and LangGraph. |
 | [**iabheejit/AI-Co-Scientist**](https://github.com/iabheejit/AI-Co-Scientist) | ⭐ 16 | `JavaScript` | An advanced research assistant that utilizes AI agents to generate novel research directions and analyze scientific l... |
 | [**strickvl/hinbox**](https://github.com/strickvl/hinbox) | ⭐ 16 | `Python` | Hinbox is a flexible, domain-configurable entity extraction system designed for historians and researchers. |
 | [**justinlietz93/Cogito**](https://github.com/justinlietz93/Cogito) | ⭐ 16 | `Python` | Cogito: Computational framework employing a Syncretic Catalyst (synthesis) & rigorous Critique System (analysis) auto... |
+| [**yoloshii/gigaxity-deep-research**](https://github.com/yoloshii/gigaxity-deep-research) | ⭐ 16 | `Python` | Open-source deep research MCP. Tongyi 30B via OpenRouter, cited web synthesis for Claude Code, Codex, Cursor, Hermes ... |
+| [**wzk1015/WorldCupArena**](https://github.com/wzk1015/WorldCupArena) | ⭐ 16 | `Python` | ⚽️🤖 Benchmarking LLMs and deep-research agents on real-world football prediction — from the tactical "who scores in m... |
 | [**Alex2Yang97/local-full-stack-deep-research**](https://github.com/Alex2Yang97/local-full-stack-deep-research) | ⭐ 15 | `Python` | A full-stack local deep research application built with LangGraph, supporting multiple LLM providers and search APIs.... |
 | [**Agents365-ai/scholar-deep-research**](https://github.com/Agents365-ai/scholar-deep-research) | ⭐ 15 | `Python` | 8-phase literature-review pipeline. 7 federated sources, dedup, ranked retrieval, citation chasing, self-critique, 5 ... |
-| [**wzk1015/WorldCupArena**](https://github.com/wzk1015/WorldCupArena) | ⭐ 15 | `Python` | ⚽️🤖 Benchmarking LLMs and deep-research agents on real-world football prediction — from the tactical "who scores in m... |
-| [**yoloshii/gigaxity-deep-research**](https://github.com/yoloshii/gigaxity-deep-research) | ⭐ 14 | `Python` | Open-source deep research MCP. Tongyi 30B via OpenRouter, cited web synthesis for Claude Code, Codex, Cursor, Hermes ... |
-| [**IceWhaleTech/ZimaOS-Blue**](https://github.com/IceWhaleTech/ZimaOS-Blue) | ⭐ 14 | `Go` | ZimaOS Blue - A Local-First Agent Runtime for Bold Builders. Out-of-the-Box, Open-Source, Universal, Vendor-Neutral |
+| [**IceWhaleTech/ZimaOS-Blue**](https://github.com/IceWhaleTech/ZimaOS-Blue) | ⭐ 15 | `Go` | ZimaOS Blue - A Local-First Agent Runtime for Bold Builders. Out-of-the-Box, Open-Source, Universal, Vendor-Neutral |
 | [**machinelearningZH/deep-research**](https://github.com/machinelearningZH/deep-research) | ⭐ 13 | `Python` | Powerful, automated research and analysis across your own document collections. |
 | [**tb-yasu/deep-openreview-research-ja**](https://github.com/tb-yasu/deep-openreview-research-ja) | ⭐ 13 | `Python` | OpenReview論文を自動で発見・分析する日本語対応AIエージェント |
 | [**Aryamirsepasi/Swift-Deep-Research**](https://github.com/Aryamirsepasi/Swift-Deep-Research) | ⭐ 13 | `Swift` | An open source deep research clone. AI Agent (Local LLM or Gemini) that reasons large amounts of web data extracted w... |
@@ -371,14 +371,14 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**CL-ML/open-collider**](https://github.com/CL-ML/open-collider) | ⭐ 316 | `Python` | A semantic collision engine for non-trivial LLM idea generation. Operationalizes Koestler's bisociation theory (1964)... |
+| [**CL-ML/open-collider**](https://github.com/CL-ML/open-collider) | ⭐ 317 | `Python` | A semantic collision engine for non-trivial LLM idea generation. Operationalizes Koestler's bisociation theory (1964)... |
 | [**snap-stanford/POPPER**](https://github.com/snap-stanford/POPPER) | ⭐ 274 | `Python` | Automated Hypothesis Testing with Agentic Sequential Falsifications |
 | [**bhaskatripathi/HypothesisHub**](https://github.com/bhaskatripathi/HypothesisHub) | ⭐ 37 | `Jupyter Notebook` | An AI Tool for Automated Research Question and Hypothesis Generation from a given Scientific Literature |
 | [**HICAI-ZJU/SciKGs**](https://github.com/HICAI-ZJU/SciKGs) | ⭐ 37 |  | A Survey on Knowledge Graphs in AI for Science |
 | [**artificial-scientist-lab/SciMuse**](https://github.com/artificial-scientist-lab/SciMuse) | ⭐ 37 | `Python` | Interesting Scientific Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders |
 | [**Anikethh/IRIS-Interactive-Research-Ideation-System**](https://github.com/Anikethh/IRIS-Interactive-Research-Ideation-System) | ⭐ 34 | `Python` | A platform for Interactive AI-assisted Hypothesis Generation [ACL 2025] |
 | [**pkargupta/idea_catalyst**](https://github.com/pkargupta/idea_catalyst) | ⭐ 30 | `Python` | Idea-Catalyst is a metacognition-driven framework for helping humans and LLMs boost their creativity during the scien... |
-| [**x66ccff/liveideabench**](https://github.com/x66ccff/liveideabench) | ⭐ 27 | `Jupyter Notebook` | [𝐍𝐚𝐭𝐮𝐫𝐞 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬] 🤖💡 LiveIdeaBench: Evaluating LLMs' Scientific Creativity and Idea Generation with Minimal Con... |
+| [**x66ccff/liveideabench**](https://github.com/x66ccff/liveideabench) | ⭐ 28 | `Jupyter Notebook` | [𝐍𝐚𝐭𝐮𝐫𝐞 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬] 🤖💡 LiveIdeaBench: Evaluating LLMs' Scientific Creativity and Idea Generation with Minimal Con... |
 | [**ai-in-pm/AI-Co-Scientist**](https://github.com/ai-in-pm/AI-Co-Scientist) | ⭐ 21 | `Python` | AI Co-Scientist is a comprehensive multi-agent AI system designed for scientific research and hypothesis generation.  |
 | [**pkargupta/tree-of-debate**](https://github.com/pkargupta/tree-of-debate) | ⭐ 18 | `Python` | Tree-of-Debate converts scientific papers into LLM personas that debate their respective novelties. To emphasize stru... |
 | [**1Dark134/arxiv-mcp-server**](https://github.com/1Dark134/arxiv-mcp-server) | ⭐ 17 | `Python` | arXiv MCP Server Client 🐙 enables AI assistants to search, retrieve, analyze, and summarize arXiv papers with feature... |
@@ -392,7 +392,7 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**llmsresearch/paperbanana**](https://github.com/llmsresearch/paperbanana) | ⭐ 1,990 | `Python` | Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, a... |
+| [**llmsresearch/paperbanana**](https://github.com/llmsresearch/paperbanana) | ⭐ 1,995 | `Python` | Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, a... |
 | [**ywatanabe1989/scitex-python**](https://github.com/ywatanabe1989/scitex-python) | ⭐ 85 | `Python` | Python toolkit for reproducible science. CLI commands, 371+ MCP tools, built-in skills. From raw data to manuscript —... |
 | [**SUSTech-GenAI/awesome-researchclaw**](https://github.com/SUSTech-GenAI/awesome-researchclaw) | ⭐ 56 |  | 🦞 A curated list of ResearchClaw ecosystem projects, AI research agents, autonomous paper-writing tools, and scientif... |
 | [**Aaryan-Kapoor/24hr-research-agent**](https://github.com/Aaryan-Kapoor/24hr-research-agent) | ⭐ 44 | `HTML` | An experimental autonomous research system that conducts comprehensive, multi-hour research sessions and produces boo... |
@@ -419,23 +419,24 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**ai-boost/awesome-ai-for-science**](https://github.com/ai-boost/awesome-ai-for-science) | ⭐ 1,644 |  | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery ... |
-| [**K-Dense-AI/k-dense-byok**](https://github.com/K-Dense-AI/k-dense-byok) | ⭐ 801 | `TypeScript` | An AI co-scientist powered by Scientific Agent Skills running on your desktop. |
+| [**ai-boost/awesome-ai-for-science**](https://github.com/ai-boost/awesome-ai-for-science) | ⭐ 1,647 |  | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery ... |
+| [**K-Dense-AI/k-dense-byok**](https://github.com/K-Dense-AI/k-dense-byok) | ⭐ 805 | `TypeScript` | An AI co-scientist powered by Scientific Agent Skills running on your desktop. |
 | [**atomicarchitects/equiformer_v2**](https://github.com/atomicarchitects/equiformer_v2) | ⭐ 343 | `Python` | [ICLR 2024] EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations |
 | [**zjunlp/Mol-Instructions**](https://github.com/zjunlp/Mol-Instructions) | ⭐ 294 | `Python` | [ICLR 2024] Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models |
 | [**atomicarchitects/equiformer**](https://github.com/atomicarchitects/equiformer) | ⭐ 282 | `Python` | [ICLR 2023 Spotlight] Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs |
-| [**jaechang-hits/SciAgent-Skills**](https://github.com/jaechang-hits/SciAgent-Skills) | ⭐ 199 | `Python` | Life sciences computational skills for scientific AI agents |
+| [**jaechang-hits/SciAgent-Skills**](https://github.com/jaechang-hits/SciAgent-Skills) | ⭐ 200 | `Python` | Life sciences computational skills for scientific AI agents |
 | [**VarunUllanat/mint**](https://github.com/VarunUllanat/mint) | ⭐ 150 | `Python` | Learning the language of protein-protein interactions |
 | [**blazerye/DrugAssist**](https://github.com/blazerye/DrugAssist) | ⭐ 144 | `Python` | [Briefings In Bioinformatics] DrugAssist: A Large Language Model for Molecule Optimization |
 | [**alibaba/graph-gpt**](https://github.com/alibaba/graph-gpt) | ⭐ 106 | `Python` | Generative Pre-trained Graph Eulerian Transformer [ICML2025] |
 | [**001TMF/blatant-why**](https://github.com/001TMF/blatant-why) | ⭐ 83 | `Python` | AI-powered biologics design campaign agent — multi-agent orchestration with BoltzGen, PXDesign, Protenix, and 200+ cl... |
-| [**ziatdinovmax/SciLink**](https://github.com/ziatdinovmax/SciLink) | ⭐ 81 | `Python` | LLM-powered agents for scientific research automation |
+| [**ziatdinovmax/SciLink**](https://github.com/ziatdinovmax/SciLink) | ⭐ 82 | `Python` | LLM-powered agents for scientific research automation |
+| [**BioTender-max/awesome-bio-agent-skills**](https://github.com/BioTender-max/awesome-bio-agent-skills) | ⭐ 58 | `Python` | A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis,... |
 | [**KrishnaswamyLab/ImmunoStruct**](https://github.com/KrishnaswamyLab/ImmunoStruct) | ⭐ 46 | `Python` | [Nature Machine Intelligence] ImmunoStruct enables multimodal deep learning for immunogenicity prediction |
 | [**hoon-ock/AgentD**](https://github.com/hoon-ock/AgentD) | ⭐ 39 | `Jupyter Notebook` | llm agent for drug discovery |
 | [**mims-harvard/PROTON**](https://github.com/mims-harvard/PROTON) | ⭐ 29 | `Jupyter Notebook` | Graph AI generates neurological hypotheses validated in molecular, organoid, and clinical systems |
 | [**Curtis-Wu/Equivariant-Graph-Transformer**](https://github.com/Curtis-Wu/Equivariant-Graph-Transformer) | ⭐ 23 | `Jupyter Notebook` | A deep neural network with hybrid architecture (EGNN + Transformer) for molecular properties prediction. |
 | [**wzn99/DrugPilot**](https://github.com/wzn99/DrugPilot) | ⭐ 22 | `Jupyter Notebook` | A LLM-based Agent Framework for Drug Discovery |
-| [**Genentech/CLADD**](https://github.com/Genentech/CLADD) | ⭐ 20 | `Python` | The official source code for "RAG-Enhanced Collaborative LLM Agents for Drug Discovery" |
+| [**Genentech/CLADD**](https://github.com/Genentech/CLADD) | ⭐ 21 | `Python` | The official source code for "RAG-Enhanced Collaborative LLM Agents for Drug Discovery" |
 | [**drug-discovery-ai/deda-drug-evaluation-and-discovery-agent**](https://github.com/drug-discovery-ai/deda-drug-evaluation-and-discovery-agent) | ⭐ 17 | `Python` | An all-in-a-box Drug Discovery AI agent tool |
 | [**little1d/MolAct**](https://github.com/little1d/MolAct) | ⭐ 17 | `Python` | Official Code of Paper: MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization |
 | [**nickzren/biomed-agent**](https://github.com/nickzren/biomed-agent) | ⭐ 15 | `Python` | Connecting AI agent to biomedical data |
@@ -468,7 +469,7 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**VoltAgent/awesome-ai-agent-papers**](https://github.com/VoltAgent/awesome-ai-agent-papers) | ⭐ 1,389 |  | A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, wo... |
+| [**VoltAgent/awesome-ai-agent-papers**](https://github.com/VoltAgent/awesome-ai-agent-papers) | ⭐ 1,399 |  | A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, wo... |
 | [**SciML/SciMLBenchmarks.jl**](https://github.com/SciML/SciMLBenchmarks.jl) | ⭐ 344 | `MATLAB` | Scientific machine learning (SciML) benchmarks, AI for science, and (differential) equation solvers. Covers Julia, Py... |
 | [**EuniAI/awesome-code-agents**](https://github.com/EuniAI/awesome-code-agents) | ⭐ 105 | `Python` | A curated list of products, benchmarks, and research papers on autonomous code agents. Beyond coding — they're redefi... |
 | [**duolaAmengweb3/clawquant-trader**](https://github.com/duolaAmengweb3/clawquant-trader) | ⭐ 87 | `Python` | Quantitative trading research infrastructure for AI Agents - backtest, sweep, radar, deploy |
@@ -485,7 +486,7 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**jaychempan/Awesome-LWMs**](https://github.com/jaychempan/Awesome-LWMs) | ⭐ 360 |  | A Collection of Awesome Large Weather Models (LWMs) \|  AI for Earth (AI4Earth) \| AI for Science (AI4Science) |
+| [**jaychempan/Awesome-LWMs**](https://github.com/jaychempan/Awesome-LWMs) | ⭐ 361 |  | A Collection of Awesome Large Weather Models (LWMs) \|  AI for Earth (AI4Earth) \| AI for Science (AI4Science) |
 | [**jackvandervall/agentic-archive**](https://github.com/jackvandervall/agentic-archive) | ⭐ 82 |  | A collection of 2025 agentic workflows built in n8n. Showcases manual multi-model orchestration, RAG-to-SQL, and auto... |
 | [**OmicsML/awesome-AI_Scientist-agents-biology-papers**](https://github.com/OmicsML/awesome-AI_Scientist-agents-biology-papers) | ⭐ 56 |  |  |
 | [**SpectrAI-Initiative/Vibe-Research-Guide**](https://github.com/SpectrAI-Initiative/Vibe-Research-Guide) | ⭐ 33 | `HTML` |  A curated guide for LLM-agent-driven scientific research automation — from getting started to the frontier. |
@@ -495,34 +496,34 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 ## 📊 Stats
 
-- **Total repositories**: 356
+- **Total repositories**: 357
 - **Categories**: 10
-- **Top languages**: Python(216), TypeScript(40), JavaScript(18), Jupyter Notebook(16), HTML(7), Rust(7), Shell(6), Swift(2)
-- **Last updated**: 2026-06-14
+- **Top languages**: Python(217), TypeScript(40), JavaScript(18), Jupyter Notebook(16), HTML(7), Rust(7), Shell(6), Swift(2)
+- **Last updated**: 2026-06-15
 
 ### 🏆 Top 20 by Stars
 
 | Rank | Repository | Stars | Description |
 |------|-----------|-------|-------------|
-| 1 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ⭐ 86,606 | AI agents running research on single-GPU nanochat training automatically |
-| 2 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ⭐ 82,675 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine ... |
-| 3 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 71,130 | An open-source long-horizon SuperAgent harness that researches, codes, and cr... |
-| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ 41,443 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polym... |
-| 5 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | ⭐ 41,375 | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
-| 6 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | ⭐ 35,111 | Your AI second brain. Self-hostable. Get answers from the web or your docs. B... |
-| 7 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | ⭐ 28,362 | An LLM-powered knowledge curation system that researches a topic and generate... |
-| 8 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ⭐ 28,154 | A set of ready to use Agent Skills for research, science, engineering, analys... |
-| 9 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 28,154 | A set of ready to use Agent Skills for research, science, engineering, analys... |
-| 10 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ⭐ 27,689 | An autonomous agent that conducts deep research on any data using any LLM pro... |
-| 11 | [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | ⭐ 19,388 | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
-| 12 | [dzhng/deep-research](https://github.com/dzhng/deep-research) | ⭐ 19,116 | An AI-powered research assistant that performs iterative, deep research on an... |
-| 13 | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | ⭐ 17,932 | Private AI platform for agents, assistants and enterprise search. Built-in Ag... |
-| 14 | [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) | ⭐ 13,964 | The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬 |
-| 15 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | ⭐ 12,033 | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for auton... |
-| 16 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | ⭐ 8,468 | Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-... |
-| 17 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | ⭐ 8,274 | MiroThinker is a deep research agent optimized for complex research and predi... |
-| 18 | [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) | ⭐ 7,875 | Open Source Deep Research Alternative to Reason and Search on Private Data. W... |
-| 19 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | ⭐ 6,567 | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agenti... |
+| 1 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ⭐ 86,849 | AI agents running research on single-GPU nanochat training automatically |
+| 2 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ⭐ 82,791 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine ... |
+| 3 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 71,207 | An open-source long-horizon SuperAgent harness that researches, codes, and cr... |
+| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ 42,430 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polym... |
+| 5 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | ⭐ 41,389 | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| 6 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | ⭐ 35,138 | Your AI second brain. Self-hostable. Get answers from the web or your docs. B... |
+| 7 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | ⭐ 28,370 | An LLM-powered knowledge curation system that researches a topic and generate... |
+| 8 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ⭐ 28,244 | A set of ready to use Agent Skills for research, science, engineering, analys... |
+| 9 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 28,244 | A set of ready to use Agent Skills for research, science, engineering, analys... |
+| 10 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ⭐ 27,716 | An autonomous agent that conducts deep research on any data using any LLM pro... |
+| 11 | [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | ⭐ 19,400 | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| 12 | [dzhng/deep-research](https://github.com/dzhng/deep-research) | ⭐ 19,124 | An AI-powered research assistant that performs iterative, deep research on an... |
+| 13 | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | ⭐ 17,936 | Private AI platform for agents, assistants and enterprise search. Built-in Ag... |
+| 14 | [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) | ⭐ 13,974 | The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬 |
+| 15 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | ⭐ 12,102 | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for auton... |
+| 16 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | ⭐ 8,477 | Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-... |
+| 17 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | ⭐ 8,292 | MiroThinker is a deep research agent optimized for complex research and predi... |
+| 18 | [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) | ⭐ 7,888 | Open Source Deep Research Alternative to Reason and Search on Private Data. W... |
+| 19 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | ⭐ 6,577 | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agenti... |
 | 20 | [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) | ⭐ 6,251 | An open source deep research clone. AI Agent that reasons large amounts of we... |
 
 ---
