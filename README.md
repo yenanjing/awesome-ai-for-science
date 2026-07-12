@@ -53,6 +53,7 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
+| [**AutoResearch-Factory/Agon**](https://github.com/AutoResearch-Factory/Agon) | ⭐ 19 |  | Omnidisciplinary research orchestrator built on Prompt Economy (treats prompt engineering as engineering, maximizes ROI) via reusable loops. |
 | [**K-Dense-AI/claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) | ⭐ 30,644 | `Python` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 | [**K-Dense-AI/scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 30,644 | `Python` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 | [**SakanaAI/AI-Scientist**](https://github.com/SakanaAI/AI-Scientist) | ⭐ 14,195 | `Jupyter Notebook` | The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬 |
@@ -488,6 +489,7 @@ This list focuses specifically on **AI systems that automate the scientific rese
 | [**chemgymrl/chemgymrl**](https://github.com/chemgymrl/chemgymrl) | ⭐ 30 | `Jupyter Notebook` |  |
 | [**wanjiaZhao1203/TREAT**](https://github.com/wanjiaZhao1203/TREAT) | ⭐ 28 | `Python` | [NeurIPS 2024] Physics-Informed Regularization for Domain-Agnostic Dynamical System Modeling  |
 | [**fengxuyy/QUASAR**](https://github.com/fengxuyy/QUASAR) | ⭐ 18 | `Python` | QUASAR is an autonomous system for end-to-end scientific discovery, integrating LLMs with simulation tools to automat... |
+| [**Daviddjddu/Autonumerics**](https://github.com/Daviddjddu/Autonumerics) | ⭐ 2 | `Python` | Autonomous, PDE-agnostic multi-agent pipeline that writes, debugs, and validates classical numerical solvers from natural-language problem descriptions. |
 
 ---
 
