@@ -482,6 +482,7 @@ This list focuses specifically on **AI systems that automate the scientific rese
 |-----------|-------|----------|-------------|
 | [**afrise/academic-search-mcp-server**](https://github.com/afrise/academic-search-mcp-server) | ⭐ 119 | `Python` | Academic Paper Search MCP Server for Claude Desktop integration. Allows Claude to access data from Semantic Scholar a... |
 | [**rmovva/HypotheSAEs**](https://github.com/rmovva/HypotheSAEs) | ⭐ 94 | `Jupyter Notebook` | HypotheSAEs: hypothesizing interpretable relationships in text datasets using sparse autoencoders. https://arxiv.org/... |
+| [**RetrogradeLabs/lune-mcp-server**](https://github.com/RetrogradeLabs/lune-mcp-server) | ⭐ 3 | `TypeScript` | MCP server for full-text peer-reviewed computer-science paper search, citation traversal, evidence extraction, and quote-backed claim verification. |
 
 ---
 
