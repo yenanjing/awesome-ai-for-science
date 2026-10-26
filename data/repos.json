@@ -1,5 +1,16 @@
 [
   {
+    "description": "Agent-ready finite-element workflows: editable models, pre-run checks, numerical solves and result verification.",
+    "forks": 3,
+    "language": "Python",
+    "name": "haoming-luo/agentfem",
+    "stars": 29,
+    "topics": "ai-agents,ai-native,cae,computational-mechanics,fenicsx,finite-element-analysis,model-context-protocol,scientific-computing",
+    "updated": "2026-10-26T20:03:26Z",
+    "url": "https://github.com/haoming-luo/agentfem",
+    "category": "⚗️ AI for Materials & Physical Sciences"
+  },
+  {
     "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
     "forks": 1824,
     "language": "Python",
