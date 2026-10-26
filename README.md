@@ -6,7 +6,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/yenanjing/awesome-ai-for-science?style=flat-square)
   ![Last Updated](https://img.shields.io/badge/last%20updated-2026-10-26-blue?style=flat-square)
 
-  <p>Collected <strong>499</strong> repositories across <strong>10</strong> categories covering the full spectrum of AI-driven research automation.</p>
+  <p>Collected <strong>500</strong> repositories across <strong>10</strong> categories covering the full spectrum of AI-driven research automation.</p>
 </div>
 
 ---
@@ -598,6 +598,7 @@ This list focuses specifically on **AI systems that automate the scientific rese
 | [**NERSC/sc23-dl-tutorial**](https://github.com/NERSC/sc23-dl-tutorial) | ⭐ 49 | `Python` | SC23 Deep Learning at Scale Tutorial Material |
 | [**sherrylixuecheng/awesome-ai4chem**](https://github.com/sherrylixuecheng/awesome-ai4chem) | ⭐ 49 |  | Awesome AI for chemistry papers |
 | [**chemgymrl/chemgymrl**](https://github.com/chemgymrl/chemgymrl) | ⭐ 33 | `Jupyter Notebook` |  |
+| [**haoming-luo/agentfem**](https://github.com/haoming-luo/agentfem) | ⭐ 29 | `Python` | Agent-ready finite-element workflows: editable models, pre-run checks, numerical solves and result verification. |
 | [**wanjiaZhao1203/TREAT**](https://github.com/wanjiaZhao1203/TREAT) | ⭐ 28 | `Python` | [NeurIPS 2024] Physics-Informed Regularization for Domain-Agnostic Dynamical System Modeling  |
 | [**fengxuyy/QUASAR**](https://github.com/fengxuyy/QUASAR) | ⭐ 21 | `Python` | QUASAR is an autonomous system for end-to-end scientific discovery, integrating LLMs with simulation tools to automat... |
 
@@ -638,9 +639,9 @@ This list focuses specifically on **AI systems that automate the scientific rese
 
 ## 📊 Stats
 
-- **Total repositories**: 499
+- **Total repositories**: 500
 - **Categories**: 10
-- **Top languages**: Python(305), TypeScript(58), JavaScript(25), Jupyter Notebook(17), Rust(12), Shell(10), HTML(10), Go(3)
+- **Top languages**: Python(306), TypeScript(58), JavaScript(25), Jupyter Notebook(17), Rust(12), Shell(10), HTML(10), Go(3)
 - **Last updated**: 2026-10-26
 
 ### 🏆 Top 20 by Stars
